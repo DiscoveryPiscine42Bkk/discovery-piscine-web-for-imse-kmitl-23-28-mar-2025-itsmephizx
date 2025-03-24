@@ -1,0 +1,3 @@
+printf "Z\n" > z
+cmmod 444 z
+cat z
